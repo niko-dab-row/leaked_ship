@@ -1,7 +1,6 @@
 # Titanic Survival Prediction or data leak - who knows
 
-Machine learning project predicting Titanic passenger survival.
-
+TODO
 ## Features
 
 - Data cleaning
@@ -16,7 +15,7 @@ Random Forest Classifier
 
 ## Validation Score
 
-Approximately 80-83% accuracy.
+TODO
 
 ## Usage
 
