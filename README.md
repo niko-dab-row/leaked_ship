@@ -1,4 +1,4 @@
-# Titanic Survival Prediction or data leak - who knows
+# Data Leak or Titanic Survival Prediction - who knows?
 
 TODO
 ## Features
